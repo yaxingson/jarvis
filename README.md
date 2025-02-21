@@ -1,6 +1,6 @@
 # Jarvis
 
-## What can it do
+## 🚀 What can it do
 
 1. Face recognition
 
@@ -42,5 +42,15 @@
 
 20. Language translation
 
-## Contribution
+## ⛏️ Quick Start
+
+
+
+## 🤝 Contribution
+
+
+## 📄 License
+
+This project is licensed under the [MIT](./LICENSE) License.
+
 
