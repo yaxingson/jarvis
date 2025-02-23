@@ -1,5 +1,7 @@
 # Jarvis
 
+![](./jarvis.jpg)
+
 ## 🚀 What can it do
 
 1. Face recognition
