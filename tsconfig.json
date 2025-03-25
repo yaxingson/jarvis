@@ -2,7 +2,8 @@
   "compilerOptions":{
     "module": "commonjs",
     "esModuleInterop": true,
-    "outDir": "./bin"
-  },
-  "include": ["cli/**/*.ts"],
+    "moduleResolution":"node",
+    "outDir": "./bin",
+    "types":["vitest/globals"]
+  }
 }

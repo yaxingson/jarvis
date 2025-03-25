@@ -1,0 +1,19 @@
+{
+  "name": "@jarvis/core",
+  "exports": {},
+  "scripts": {
+    "test": "vitest",
+    "build": ""
+  },
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^6.0.1",
+    "@napi-rs/canvas": "^0.1.68",
+    "face-api.js": "^0.22.2",
+    "play-sound": "^1.1.6",
+    "prompts": "^2.4.2",
+    "say": "^0.16.0"
+  },
+  "devDependencies": {
+    "@types/play-sound": "^1.1.2"
+  }
+}

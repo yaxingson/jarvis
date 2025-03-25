@@ -1,7 +1,5 @@
 # Jarvis
 
-<img src="./jarvis.jpg" width="100%" />
-
 ## 🚀 What can it do
 
 1. Face recognition
@@ -46,7 +44,18 @@
 
 ## ⛏️ Quick Start
 
+CLI:
 
+```sh
+npm i jarvis -g
+
+```
+
+Web:
+
+```
+
+```
 
 ## 🤝 Contribution
 

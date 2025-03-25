@@ -1,0 +1,6 @@
+{
+  "name":"@jarvis/cli",
+  "dependencies":{
+    "@jarvis/core":"workspace:*"
+  }
+}
